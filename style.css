@@ -7,13 +7,19 @@
  */
  
 p {
-    property: value;
+    font-family: Arial;
+	font-size: 16px;
+	color: #000000;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 2px solid #000000;
 }
 
-#id {
-    property:value;
+img {
+	border: 2px outset #15ce26;
+}
+
+#style {
+    background-color: #f3d585;
 }
